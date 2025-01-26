@@ -1,11 +1,8 @@
 # Amaan Kazi
 **Software Developer**\
 Programming Since 4 years\
-Currently pursuing a diploma in Computer Engineering
-
-- Website: [amaankazi.is-a.dev](https://amaankazi.is-a.dev)
-- Currently Working on: [SCM16](https://github.com/Amaan-Kazi/SCM16)
-- Currently Learning: **Compiler Development, Data Structures and Algorithms**
+Currently pursuing a diploma in Computer Engineering\
+Website: [amaankazi.is-a.dev](https://amaankazi.is-a.dev)
 
 ---
 
