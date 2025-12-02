@@ -9,7 +9,7 @@ Interested In:
 - OSDev
 
 Website: [amaankazi.is-a.dev](https://amaankazi.is-a.dev)\
-GPG Key: [3524A6FE16F9B3BC003146FCD1803B4DEC307057](https://github.com/Amaan-Kazi/Amaan-Kazi/blob/main/GPG.md)
+GPG Key: [3524A6FE16F9B3BC003146FCD1803B4DEC307057](gpg.md)
 
 ## Tech Stack
 
